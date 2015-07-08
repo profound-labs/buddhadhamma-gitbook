@@ -161,52 +161,18 @@ period of time. One resents the fact that one’s view is obstructed, and
 one wonders how one can find a place to watch the sky at one’s leisure
 (= saṅkhāra).
 
-[^1]: In Pali, one may refer to ‘things’ as phenomena (dhamma), elements
-    (dhātu), or aspects of reality (sabhāva) The complete spelling of
-    this third term is sabhāva-dhammā (from sa + bhāva + dhamma), which
-    literally means ‘things that exist according to their own nature.’
+[^1]: In Pali, one may refer to ‘things’ as phenomena (dhamma), elements (dhātu), or aspects of reality (sabhāva) The complete spelling of this third term is sabhāva-dhammā (from sa + bhāva + dhamma), which literally means ‘things that exist according to their own nature.’
 
-[^2]: S. I. 135. (In ancient India this referred to a wagon; in modern
-    parlance we may refer to this as a ‘car.’)
+[^2]: S. I. 135. (In ancient India this referred to a wagon; in modern parlance we may refer to this as a ‘car.’)
 
-[^3]: The broadest division is into mind (nāma) and body (rūpa), or
-    mentality and corporeality. The Abhidhamma texts prefer the
-    threefold division of the mind (citta), mental constituents
-    (cetasika), and the body (rūpa). If one compares this analysis to
-    the five aggregates, one may equate the following: citta =
-    viññāṇa-khandha; cetasika = vedanā-khandha, saññā-khandha, &
-    saṅkhāra-khandha; rūpa = rūpa-khandha.
+[^3]: The broadest division is into mind (nāma) and body (rūpa), or mentality and corporeality. The Abhidhamma texts prefer the threefold division of the mind (citta), mental constituents (cetasika), and the body (rūpa). If one compares this analysis to the five aggregates, one may equate the following: citta =viññāṇa-khandha; cetasika = vedanā-khandha, saññā-khandha, & saṅkhāra-khandha; rūpa = rūpa-khandha.
 
 [^4]: See more details on the five aggregates in the appendix.
 
-[^5]: The term ārammaṇa (‘object of attention’) refers to those things
-    cognized by the mind by means of the six ‘doorways’ (dvāra), i.e.,:
-    visual forms, sounds, smells, tastes, tangible objects, and mind
-    objects (thoughts).
+[^5]: The term ārammaṇa (‘object of attention’) refers to those things cognized by the mind by means of the six ‘doorways’ (dvāra), i.e.,: visual forms, sounds, smells, tastes, tangible objects, and mind objects (thoughts).
 
-[^6]: The meaning of this important term upekkhā is often misunderstood.
-    This term appears in the group of mental formations (saṅkhāra),
-    where it is equivalent to ‘specific neutrality’ (tatramajjhattatā),
-    and also in the group of feelings (vedanā), where it is equivalent
-    to ‘neutrality’ (adukkhamasukha)—to neither-painful-nor-pleasant
-    sensations.
+[^6]: The meaning of this important term upekkhā is often misunderstood. This term appears in the group of mental formations (saṅkhāra), where it is equivalent to ‘specific neutrality’ (tatramajjhattatā), and also in the group of feelings (vedanā), where it is equivalent to ‘neutrality’ (adukkhamasukha)—to neither-painful-nor-pleasant sensations.
 
-[^7]: The following explanations are based on references from the Pali
-    Canon as well as comparative references from the commentaries, in
-    particular: M. I. 292-3; S. III. 87; [MA. II. 462]; SA. II. 291;
-    Vism. 436, 452-3.
+[^7]: The following explanations are based on references from the Pali Canon as well as comparative references from the commentaries, in particular: M. I. 292-3; S. III. 87; [MA. II. 462]; SA. II. 291; Vism. 436, 452-3.
 
-[^8]: The commentaries describe the following function and attributes of
-    perception (saññā): its unique attribute is sañjānana (recognition;
-    remembering). Its function is to establish a sign as a key for
-    memory, so that in the future one knows that ‘this is
-    such-and-such’; this function is similar to a carpenter who marks a
-    piece of wood. Its result is an attachment to those established
-    signs; this is similar to a blind man who touches an elephant and
-    consequently identifies an elephant with that part of its body that
-    he has touched. Its ‘footprint’ (padaṭṭhāna)—the object as it
-    appears—resembles how a fawn sees a scarecrow and believes it to be
-    a real human being (Vism. 462). In comparison to Western
-    psychological terms, saññā encompasses ‘perception,’ ‘conception’
-    (as ‘mental representation’), and ‘recognition,’ and to a certain
-    degree, but not exclusively, to ‘memory.’
+[^8]: The commentaries describe the following function and attributes of perception (saññā): its unique attribute is sañjānana (recognition; remembering). Its function is to establish a sign as a key for memory, so that in the future one knows that ‘this is such-and-such’; this function is similar to a carpenter who marks a piece of wood. Its result is an attachment to those established signs; this is similar to a blind man who touches an elephant and consequently identifies an elephant with that part of its body that he has touched. Its ‘footprint’ (padaṭṭhāna)—the object as it appears—resembles how a fawn sees a scarecrow and believes it to be a real human being (Vism. 462). In comparison to Western psychological terms, saññā encompasses ‘perception,’ ‘conception’ (as ‘mental representation’), and ‘recognition,’ and to a certain degree, but not exclusively, to ‘memory.’
