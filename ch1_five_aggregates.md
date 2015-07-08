@@ -21,7 +21,7 @@ product. Yet if one disassembles the parts, no essence of a wagon can be
 found. All that remains are the various parts, each of which is given
 its own specific name.
 
-This fact implies that the ‘self ’ or ‘entity’ of a vehicle does not
+This fact implies that the ‘self’ or ‘entity’ of a vehicle does not
 exist separate from its constituent parts. The term ‘car,’ for instance,
 is simply a conventional designation. Moreover, all of those constituent
 parts may also be separated into further parts, none of which possesses
